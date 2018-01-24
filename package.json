@@ -1,0 +1,10 @@
+{
+  "name": "PythonApp",
+  "version": "0.1.0",
+  "description": "Electron Sample App",
+  "main": "main.js",
+  "dependencies": {
+    "request": "*",
+    "request-promise": "*"
+  }
+}
