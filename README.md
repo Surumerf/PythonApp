@@ -8,7 +8,7 @@ Install electron;
 
 ```sh
 $ cd PythonApp
-$ npm install electron
+$ npm install -g electron
 ```
 
 Then, install other required packages;
