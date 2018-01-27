@@ -7,6 +7,7 @@ Sample electron app powered by python backend.
 Install electron;
 
 ```sh
+$ cd PythonApp
 $ npm install electron
 ```
 
@@ -19,6 +20,5 @@ $ npm install
 Run the app;
 
 ```sh
-$ cd PythonApp
 $ electron .
 ```
